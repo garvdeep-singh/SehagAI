@@ -1,1 +1,32 @@
 .venv/
+cat > .gitignore <<'EOF'
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment / secrets
+.env
+.env.*
+
+# Next.js
+sehajai-frontend/node_modules/
+sehajai-frontend/.next/
+sehajai-frontend/out/
+
+# Raw dataset and generated processing files
+text_data/
+raw_text/
+cleaned_text/
+qdrant_db/
+
+# Generated embeddings/chunks
+chunks/embeddings.jsonl
+
+# Evaluation outputs
+evaluation/answer_results.json
+evaluation/retrieval_results.json
+
+# OS/editor files
+.DS_Store
+EOF
