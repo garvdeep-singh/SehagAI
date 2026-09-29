@@ -1,0 +1,140 @@
+[
+  {
+    "id": 18,
+    "question": "Tell me about a government scheme for space research.",
+    "expected_scheme": null,
+    "expected_state": null,
+    "type": "out_of_domain",
+    "language": "en",
+    "answer": "Based on the provided sources, there is no mention of a government scheme specifically dedicated to space research. \n\nThe sources only provide information on the following schemes:\n* **Lakshya Scheme** (Tripura) – Financial support for candidates appearing for Civil Services Mains and Interviews [Source 1].\n* **Swarnajayanti Fellowships Scheme** (Ministry of Science and Technology) – Assistance for young scientists to pursue basic research in frontier areas of science and technology [Source 2].\n* **Co-Working Space/ Incubators/ Accelerators Subsidy Scheme** (Goa) – Reimbursements for startups occupying listed co-working spaces, incubators, or accelerators [Source 3].\n* **Women Scientist Scheme-B** (Ministry of Science and Technology) – Research grants for female scientists with a career break to address societal challenges through S&T interventions [Source 4].\n* **Land/Built-Up Area Rebate Scheme** (Goa) – Rebates for the IT industry for the purchase of land or built-up area to create IT office spaces [Source 5].",
+    "sources": [
+      {
+        "title": "Lakshya Scheme",
+        "state_or_ministry": "Tripura",
+        "section": "Benefits",
+        "source_file": "ls.txt",
+        "text": "Part I: Candidate Clears the Civil Services Prelims Exam and Will Be Appearing for the Mains Exam₹1,00,000/ (₹70,000 for coaching centre fee & study material costÂ, and ₹30,000 for travelling cost), extended from the date of publication of result till the date of Mains examination (date of last paper). Part II: Candidate Clears the Mains Exam and is Invited for an Interview by UPSC₹20,000/-, extended from the date of publication of results of Mains and date of interview.Mode of DisbursementThe monthly payment will be done in Direct Benefit Transfer (DBT) mode by the Implementing Agency. *The financial support will be given to a candidate once for Part I and once for Part II.*The candidate needs to tell the Implementing Agency about the Main exam date two months before it happens. *If the candidate gets called for an interview, he/she should also inform them before the interview date."
+      },
+      {
+        "title": "Swarnajayanti Fellowships Scheme",
+        "state_or_ministry": "Ministry Of Science And Technology",
+        "section": "Details",
+        "source_file": "sjfs.txt",
+        "text": "The Government of India had instituted a scheme \"Swarnajayanti Fellowships Scheme\" to commemorate India's fiftieth year of Independence. Under this scheme, a selected number of young scientists, with a proven track record, are provided special assistance and support to enable them to pursue basic research in frontier areas of science and technology. Scientists selected for the award will be allowed to pursue unfettered research with freedom and flexibility in terms of expenditure as approved in the research plan. The project should contain innovative research ideas and it should have the potential of making an impact on R&D in the discipline. The fellowships are scientist-specific and not institution-specific, very selective, and have close academic monitoring.Duration of Fellowship:The duration of the fellowship will be for a period not exceeding five years."
+      },
+      {
+        "title": "Co-Working Space/ Incubators/ Accelerators Subsidy Scheme",
+        "state_or_ministry": "Goa",
+        "section": "Details",
+        "source_file": "cwsiass(1).txt",
+        "text": "The scheme \"Co-Working Space/ Incubators/ Accelerators Subsidy Schemeâ€ is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. Through this scheme, the startups will be reimbursed a fixed amount for the seats occupied by them at co-working spaces/ incubators/ accelerators listed by the Startup Promotion Cell (SPC)."
+      },
+      {
+        "title": "Women Scientist Scheme-B",
+        "state_or_ministry": "Ministry Of Science And Technology",
+        "section": "Details",
+        "source_file": "wos-b.txt",
+        "text": "A Research Grant by MoST for female candidates with break in their career interested in addressing societal challenges through viable S&T interventions.This scheme will provide a research grant for a well-defined project proposal for a period of maximum three years. This grant will cover the fellowship of the applicant and cost of small equipments, contingencies, travel, consumables, etc. Institutional overhead charges will be extra.Women scientists who wish to apply under this scheme are required to develop their own project/proposals for scientific and technological solutions to address issues preferably at enhance quality-of-life the grassroots level. The proposal must clearly bring out the societal benefit to be accrued through well conceived plan for development of technology/technique and/or adaptation/ customization. The candidate should have adequate S&T skills and be adept at techniques to deliver the proposed outcome."
+      },
+      {
+        "title": "Land/Built-Up Area Rebate Scheme",
+        "state_or_ministry": "Goa",
+        "section": "Details",
+        "source_file": "lbuars.txt",
+        "text": "Launched in 2018, the \"Land/Built-Up Area Rebate Scheme\" is one of the \"Information Technology Policy Schemes\" by the Department of Information Technology, Government of Goa. The scheme aims to provide Land / Built-up Area Rebate to the IT Industry in the state of Goa. All the New and Existing Units having their operations in Goa are eligible. A one-time rebate is provided for the purchase of Land for creating IT Office Space and for the purchase of Built-Up office space for IT operations."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "What is the scholarship amount for the Lakshadweep Scholarship Scheme?",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "type": "benefits",
+    "language": "en",
+    "answer": "Under the **Lakshadweep Scholarship Scheme** (UT of Lakshadweep), the scholarship amount varies depending on the course of study [Source 1, Source 5]:\n\n* **Primary school courses (1st to VIII):** ₹ 600 per month [Source 5].\n* **Secondary school courses (VIII to X):** ₹ 200 per month [Source 5].\n* **High school courses or equivalent:** ₹ 1,200 per month [Source 5].\n* **Plus two students to whom course facilities are available in the island of which the student is native:** ₹ 450 per month [Source 5].\n* **Students of Bitra Island studying in Secondary Std. in other Island:** ₹ 450 per month [Source 5].\n* **Students of Plus 2 courses who belong to other islands than where the Institution is situated and staying outside hostel for want of hostel accommodation:** ₹ 750 per month [Source 5].\n* **Students of high school staying outside hostel for want of accommodation in the hostel:** ₹ 600 per month [Source 5].\n* **Pre-degree courses, Post Matric certificate/diploma courses, and Degree Courses (Arts, Science, Commerce, B.Ed., LLB, etc.):** Monthly scholarship of ₹ 1,800/- and a lump sum grant of ₹ 1,500/- [Source 5].\n* **Post Graduate courses (Arts, Science, Commerce, Law, etc.):** Monthly scholarship of ₹ 2,100/- and a lump sum grant of ₹ 1,800/- [Source 5].\n* **MBBS, BDS, Engineering Degree, MBA, BVSC, BSc (Agriculture), etc.:** Monthly scholarship of ₹ 2,100/- and a lump sum grant of ₹ 3,600/- [Source 5].\n* **Post Graduate courses in Medicine, Engineering, Veterinary Science, Agriculture, etc., and Research Studies (Ph.D.):** Monthly scholarship of ₹ 3,000/- and a lump sum grant of ₹ 9,000/- [Source 5].",
+    "sources": [
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state_or_ministry": "Lakshadweep",
+        "section": "Frequently Asked Questions",
+        "source_file": "lkdss.txt",
+        "text": "What is this scheme ?The Lakshadweep Scholarship Scheme is a government initiative aimed at providing financial assistance to students from Lakshadweep pursuing higher education.What is the objective of the scheme?The main objective of the scheme is to alleviate financial burdens and empower students to pursue their educational aspirations.What are the benefits?Financial assistance will be provided. Can students from other states/UTs also apply for this scheme?Both parents and the student must be born in Lakshadweep or have one parent from Lakshadweep.Can student get the benefits of multiple scheme parallelly ? Scholars cannot receive other scholarships, must surrender any awards, and repay funds received.What documents are required ?1. Domicile Certificate. 2. Income Certificate. 3. Educational Certificate. 4. Caste Certificate. 5. Aadhaar Card. 6. Bank Passbook. 7. Passport Size Photograph.What is the procedure to apply for the scheme?Applicant must be registered on Nation Scholarship Portal (NSP) and only than applicant can apply for the scheme.How to apply for the scheme?1. Open the official NSP website and click on New Registration under Applicant Corner. 2. Read the Instruction /Guidelines, provide the under taking by click on Check box and click on Continue. 3. Start the registration by Mobile OTP and get the Registration ID. 4. Submit required document.What is the official website to apply for the scheme?Https://scholarships.gov.in/"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state_or_ministry": "Lakshadweep",
+        "section": "Eligibility",
+        "source_file": "lkdss.txt",
+        "text": "Both parents and the student must be born in Lakshadweep or have one parent from Lakshadweep.The student and the Islander parent must reside in the Islands.Scholars cannot receive other scholarships, must surrender any awards, and repay funds received.Retention of concessions granted by the institution or administration is allowed.Scholars can pursue courses in Arts, Science, Engineering, Medicine, Agriculture, Law, or Commerce in recognized Indian institutions.Educational concessions on the mainland are only for studies not available in the Islands.Stipends may be granted or renewed for health reasons or disability."
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state_or_ministry": "Lakshadweep",
+        "section": "Details",
+        "source_file": "lkdss.txt",
+        "text": "The Lakshadweep Scholarship Scheme an initiative by the Department of Education under the Ministry of Human Resource Development, aims to provide financial assistance to students from the Lakshadweep union territory. This program will alleviate financial burdens and empower students to pursue their educational aspirations."
+      },
+      {
+        "title": "E-Medhabruti",
+        "state_or_ministry": "Odisha",
+        "section": "Frequently Asked Questions",
+        "source_file": "e-m.txt",
+        "text": "Which Department Manages The \"E-Medhabruti\" Scholarship Scheme?The \"e-Medhabruti\" Scholarship Scheme is managed by the Higher Education Department, Government of Odisha.What Is The Maximum Amount Of Financial Assistance Available Through This Scheme?The maximum amount of financial assistance available through this scheme is ₹ 20,000/-.How Many Scholarships Shall Be Awarded In 2023?The number of scholarships that are awarded every year is 14,500. What Shall Be The Duration Of The Scholarship?The scholarship is provided for the complete duration of the course.Can I Apply For The Scholarship If I Am Studying In The 2nd Year Of The Degree Course?No, the student can apply for e-Medhabruti Scholarship only in the year of joining (i.e. 1st year of the course).What Shall Be The Number Of Scholarships For U.G. Merit?The number of scholarships for U.G. Merit is 6,000.What Shall Be The Number Of Scholarships For P.G. Merit?The number of scholarships for P.G. Merit is 2,500.What Shall Be The Number Of Scholarships For Technical & Professional Merit?The number of scholarships for P.G. Merit is 6,000.What Shall Be The Rate Of Scholarship For U.G. Merit?The rate of scholarship for U.G. Merit shall be ₹ 5,000/- per year.What Shall Be The Rate Of Scholarship For P.G. Merit?The rate of scholarship for U.G. Merit shall be ₹ 10,000/- per year.What Shall Be The Rate Of Scholarship For Technical & Professional Merit?The rate of scholarship for U.G. Merit shall be ₹ 10,000/- per year.Is The Number Of Scholarships Subject To Change?Yes, the number of scholarships under a particular category may be increased by the Govt. depending on the number of eligible students who applied and validated in other categories in an academic year.What Shall Be The Duration Of The Scholarship If Any Student, After Availing One-Time Scholarship Under One Course, Joins Another Course?In case any student, after availing one-time scholarship under one course, joins another course i.e. students joining engineering, medical, and other professional courses during +3 and any other course having a higher scholarship amount, then the student will be entitled to the differential amount only. The differential amount will also be released in the first semester/year of the new course.What Shall Be The Mode Of Disbursement For The Scholarship?The scholarship will be paid to the selected students by the Higher Education Department through DBT (Direct Benefit Transfer) mode and will be transferred to the Bank account of the beneficiaries.Where Can I Find The Link To The Scheme Guidelines?The scheme guidelines can be found at this link - https://dhe.odisha.gov.in/sites/default/files/2021-06/Medhabruti%20Guideline2020-21.pdfWhat Is The Full-Form Of ECS?The full-form of ECS is Electronic Clearing System."
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state_or_ministry": "Lakshadweep",
+        "section": "Benefits",
+        "source_file": "lkdss.txt",
+        "text": "Name of the CoursesScholarship AmountPre-degree courses, Post Matric certificate courses, Post Matric Diploma courses, Degree Courses in Arts, Science, commerce, B.Ed., LLB etc.Rate of monthly scholarship ₹ 1,800/-, Rate of lump sum grant ₹ 1,500/-Post Graduate course in Arts, Science, Commerce, Law etc.Rate of monthly scholarship ₹ 2,100/-, Rate of lump sum grant ₹ 1,800/-MBBS, BDS, Engineering Degree, MBA, BVSC, BSC(Agriculture) etc.Rate of monthly scholarship ₹ 2,100/-, Rate of lump sum grant ₹ 3,600/-Post Graduate Course in Medicine, Engineering and Veterinary Science, Agriculture etc. and Research Studies like Ph.D.Rate of monthly scholarship ₹ 3,000/- , Rate of lump sum grant ₹ 9,000/- High school courses or equivalent.₹ 1,200/- per monthPrimary school courses (1 to VIII) ₹ 600/- per monthSecondary school courses (VIII to X)₹ 200/- per monthPlus two students to whom course facilities are available in the island of which the student is native₹ 450/- per monthStudents of Bitra Island studying in Secondary Std. in other Island₹ 450/- per monthStudents of Plus 2 courses who belong to other islands than where the Institutions is situated and staying outside hostel for want of hostel accommodation₹ 750/- per month Students of high school staying outside hostel for want of accommodation in the hostel₹ 600/- per month"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "What is the application process for the 25% Capital Investment Subsidy Scheme?",
+    "expected_scheme": "25% Capital Investment Subsidy Scheme",
+    "expected_state": "Lakshadweep",
+    "type": "application",
+    "language": "en",
+    "answer": "Under the **25% Capital Investment Subsidy Scheme** (Lakshadweep), newly established entrepreneurs can apply by submitting their application as per the guidelines issued by the Department of Industries to the concerned DCs/SDOs of their respective islands, along with all supporting documents [Source 4].",
+    "sources": [
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state_or_ministry": "Lakshadweep",
+        "section": "Frequently Asked Questions",
+        "source_file": "25-ciss.txt",
+        "text": "What is the \"25% Capital Investment Subsidy Schemeâ€?The Union Territory of Lakshadweep has implemented the scheme \"25% Capital Investment Subsidyâ€ to provide financial assistance to local entrepreneurs for promoting Micro and Small Enterprises in Lakshadweep. This scheme paves the way to improve industrialization and to facilitate local entrepreneurs/unemployed youth to take up viable ventures (Micro and small Enterprises) in the Islands.What is the objective of the scheme?The objective of the scheme is to promote Micro & Small Enterprises, generate employment opportunities in the private sector and Industrial Promotion & Economic Development of the islands.Which is the implementing department of this scheme?Department of Industries, U.T. of LakshadweepWhat does mean \"Industrial Unitâ€? Industrial unit means any Micro or Small Industrial manufacturing and servicing unit other than the Industrial units run by the department of Union Territory of Lakshadweep Administration.What does mean \"New Industrial Unitâ€?Any Micro or Small Industrial units established in the islands. The investment includes the cost of building, plants& machinery does not exceed ₹ 25.00 Lakhs. The Unit that has been registered under this Department/online Udyog Aadhaar portal of M/O MSME / otherwise shall be eligible for availing of subsidy benefits in this scheme.Who is eligible to get the benefits of the scheme?Any individual above 18 years of age including Women, ex-servicemen & physically handicapped is eligible to apply under the scheme. Who is not eligible to get the benefits of the scheme?The Entrepreneur enjoyed any other subsidy from any other Institution such as Lakshadweep Development Cooperation, LKVIB, Coir Board, Coconut Board, NABAD, etc. for the same purpose is not eligible for a 25% Capital Investment Subsidy from the Department of Industries.What is the benefit of the scheme?Under the scheme, financial assistance of 25 % of the total cost of the Enterprise inclusive of land, machinery, and construction limited to the maximum amount of ₹6.25 lakhs will be provided to the eligible entrepreneurs.Is this scheme only for the residents of Union Territory of Lakshadweep?Yes, the applicant should be a resident of Union Territory of Lakshadweep.Is the institution or Self-Help Group eligible to apply under the scheme?Yes, the institutions registered under the Societies Registration Act 1960 and Self-Help Groups that have not availed financial benefits under any other scheme are eligible for a 25% Capital Investment Subsidy. Which types of enterprises are eligible to apply under the scheme?Micro Enterprises/Units, where the investment in Plant & Machinery and Building below ₹25.00 Lakhs is only eligible under this Scheme.Which types of activities are not permitted under the scheme?Any industry/business connected with the processing/preparing of intoxicated items like Beedi/Pan/Cigarette etc. are not permitted under the scheme."
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state_or_ministry": "Lakshadweep",
+        "section": "Eligibility",
+        "source_file": "25-ciss.txt",
+        "text": "Any individual above 18 years of age including Women, ex-servicemen & physically handicapped is eligible to apply under the scheme.New Micro or Small units engaged in manufacturing/servicing except the activities specified in the Negative List are eligible to claim a 25% Capital Investment Subsidy established in Lakshadweep Islands.Micro Enterprises/Units, where the investment in Plant & Machinery and Building below ₹25.00 Lakhs is only eligible under this Scheme.The Entrepreneurs Memorandum Part-II (Permanent Registration) under the MSME Act 2006 filed before the Director of Industries, U.T. of Lakshadweep or Udyog Aadhar registration/otherwise shall be eligible for availing subsidy under this scheme as per Annexure-I.Institutions registered under the Societies Registration Act 1960 and Self-Help Groups that have not availed financial benefits under any other scheme are eligible for a 25% Capital Investment Subsidy.Note: The area of operation of the scheme is in all inhabitant islands of Lakshadweep.Negative List of Activities:The following list of activities will not be permitted under 25% Capital Investment Subsidy Programmes/ Projects/Units.Any industry/business connected with the processing/preparing of intoxicated items like Beedi/Pan/Cigarette etc.Manufacturing of Polythene carry bags of less than 20Microns thickness and manufacture of carry bags or containers made of recycled plastic for storing, carrying, dispensing, or packaging of foodstuff and any other items that cause environmental problems."
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state_or_ministry": "Lakshadweep",
+        "section": "Exclusions",
+        "source_file": "25-ciss.txt",
+        "text": "The entrepreneurs who enjoyed any other subsidy from any other Institutions such as Lakshadweep Development Cooperation, LKVIB, Coir Board, Coconut Board, NABAD, etc. for the same purpose are not eligible for a 25% Capital Investment Subsidy from the Department of Industries."
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state_or_ministry": "Lakshadweep",
+        "section": "Frequently Asked Questions",
+        "source_file": "25-ciss.txt",
+        "text": "es of enterprises are eligible to apply under the scheme?Micro Enterprises/Units, where the investment in Plant & Machinery and Building below ₹25.00 Lakhs is only eligible under this Scheme.Which types of activities are not permitted under the scheme?Any industry/business connected with the processing/preparing of intoxicated items like Beedi/Pan/Cigarette etc. are not permitted under the scheme. Further, the manufacturing of Polythene carry bags of less than 20Microns thickness and manufacture of carry bags or containers made of recycled plastic for storing, carrying, dispensing, or packaging of foodstuff and any other items that cause environmental problems are also not be permitted. How can an applicant apply under the scheme?Newly established Entrepreneurs shall submit their application as per the guidelines issued by the Department of Industries to the concerned DCs/ SDOs of respective islands along with all the supporting documents."
+      },
+      {
+        "title": "\"Interest Subsidy (For Micro, Small, Medium and Large New Industries)\" under \"Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - Various Incentives\"",
+        "state_or_ministry": "Puducherry",
+        "section": "Frequently Asked Questions",
+        "source_file": "is-mesifai-vi.txt",
+        "text": "What is the timeline for submitting subsidy applications for capital investment?The subsidy application for capital investment must be submitted within one year from the date of commencement of regular commercial production. What is required for all claims to be supported according to the provided content?All claims must be supported by a certificate issued by a Chartered Accountant. How much employment must be provided to residents of Puducherry for a unit to be eligible for incentives/subsidies/assistance?At least 60% of employment must be provided to the people of Puducherry out of the total employment strength of the industrial units. What is the composition of the State Level Committee responsible for evaluating subsidy applications? The State Level Committee consists of the Secretary to Government (Industries & Commerce), the Managing Director of PIPDIC, the Deputy Secretary/Under Secretary (Finance), and the Director of Industries and Commerce, all from Puducherry. Under what circumstances would the entire amount of subsidies and incentives availed need to be refunded, according to the content?If the unit undergoes any amendments in new partners or shareholders within five years from the date of availing the subsidy, the entire amount of subsidies and incentives availed must be refunded with a simple interest of 14% per annum. Which types of investments are ineligible for investment subsidy according to the provided conditions?Working capital, commissioning fees, goodwill fees, royalty, preliminary and pre-operative expenses, capitalized interest, transportation and erection charges, goods vehicles, office equipment, furniture, crates, pallets, and consumable stores, etc., are ineligible for investment subsidy. Through whom is the subsidy amount disbursed if the unit is financed by financial institutions/banks?The subsidy amount is disbursed through financial institutions/banks towards the adjustment against the loan availed by the entrepreneurs or for the creation of additional fixed assets or for working capital purposes. What happens if an industrial unit has availed investment subsidy from the Central Government/State Government or any other agency?If an industrial unit has availed investment subsidy from any other agency, it is not eligible to apply for a subsidy for the same investment again under this Scheme. What is the condition for industrial units set up by the same person to be eligible for subsidy as separate entities?Industrial units set up by the same person as proprietor, common partners, or common Board of Directors/shareholders are eligible for subsidy as separate entities provided the location of the units is different and licenses/clearances/registrations are obtained separately for the enterprises. How is the commencement date for regular commercial production determined?The commencement date is verified by Officials of the Industries Department based on the entrepreneur's admission."
+      }
+    ]
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "question": "What documents are required for the Lakshadweep Scholarship Scheme?",
+    "type": "documents",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "correct_rank": 1,
+    "retrieved": [
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Application Process"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Eligibility"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Documents Required"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Details"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Who is eligible for the Lakshadweep Scholarship Scheme?",
+    "type": "eligibility",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "correct_rank": 1,
+    "retrieved": [
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Eligibility"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Details"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Application Process"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Benefits"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "What benefits are provided under the 25% Capital Investment Subsidy Scheme?",
+    "type": "benefits",
+    "expected_scheme": "25% Capital Investment Subsidy Scheme",
+    "expected_state": "Lakshadweep",
+    "correct_rank": 1,
+    "retrieved": [
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Benefits"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Eligibility"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Exclusions"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What is the maximum subsidy under the 25% Capital Investment Subsidy Scheme in Lakshadweep?",
+    "type": "benefits",
+    "expected_scheme": "25% Capital Investment Subsidy Scheme",
+    "expected_state": "Lakshadweep",
+    "correct_rank": 1,
+    "retrieved": [
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Benefits"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Eligibility"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Details"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Exclusions"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Who is eligible for the 25% Capital Investment Subsidy Scheme?",
+    "type": "eligibility",
+    "expected_scheme": "25% Capital Investment Subsidy Scheme",
+    "expected_state": "Lakshadweep",
+    "correct_rank": 1,
+    "retrieved": [
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Eligibility"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Exclusions"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "\"Capital Investment Subsidy: Physically Handicapped Persons/ Ex-Servicemen\" under \"Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries\"",
+        "state": "Puducherry",
+        "section": "Details"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "What are the eligibility requirements for the 25% Capital Investment Subsidy Scheme?",
+    "type": "eligibility",
+    "expected_scheme": "25% Capital Investment Subsidy Scheme",
+    "expected_state": "Lakshadweep",
+    "correct_rank": 1,
+    "retrieved": [
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Eligibility"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Exclusions"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Benefits"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "What documents are needed to apply for the Lakshadweep Scholarship Scheme?",
+    "type": "application",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "correct_rank": 1,
+    "retrieved": [
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Application Process"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Eligibility"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Documents Required"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "What are the benefits of the Lakshadweep Scholarship Scheme?",
+    "type": "benefits",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "correct_rank": 1,
+    "retrieved": [
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Details"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Eligibility"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Application Process"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Benefits"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "How can I apply for the Lakshadweep Scholarship Scheme?",
+    "type": "application",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "correct_rank": 1,
+    "retrieved": [
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Eligibility"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Details"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Application Process"
+      },
+      {
+        "title": "Pathani Samanta Mathematics Talent (Class - 11 To 12)",
+        "state": "Odisha",
+        "section": "Frequently Asked Questions"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "What are the exclusions under the 25% Capital Investment Subsidy Scheme?",
+    "type": "eligibility",
+    "expected_scheme": "25% Capital Investment Subsidy Scheme",
+    "expected_state": "Lakshadweep",
+    "correct_rank": 1,
+    "retrieved": [
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Exclusions"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Eligibility"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Benefits"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "What is the maximum subsidy under the Capital Investment Subsidy Scheme?",
+    "type": "ambiguous",
+    "expected_scheme": null,
+    "expected_state": null,
+    "correct_rank": null,
+    "retrieved": [
+      {
+        "title": "\"Capital Investment Subsidy: Physically Handicapped Persons/ Ex-Servicemen\" under \"Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries\"",
+        "state": "Puducherry",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "Capital Investment Subsidy Scheme",
+        "state": "Goa",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "Capital Investment Subsidy Scheme for Goan Diaspora",
+        "state": "Goa",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Benefits"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Tell me about the Capital Investment Subsidy Scheme.",
+    "type": "ambiguous",
+    "expected_scheme": null,
+    "expected_state": null,
+    "correct_rank": null,
+    "retrieved": [
+      {
+        "title": "Capital Investment Subsidy Scheme",
+        "state": "Goa",
+        "section": "Details"
+      },
+      {
+        "title": "\"Capital Investment Subsidy: Physically Handicapped Persons/ Ex-Servicemen\" under \"Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries\"",
+        "state": "Puducherry",
+        "section": "Details"
+      },
+      {
+        "title": "\"Capital Investment Subsidy (for New and Existing Industries)\" under \"Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Capital Intensive Industries\"",
+        "state": "Puducherry",
+        "section": "Details"
+      },
+      {
+        "title": "Capital Investment Subsidy Scheme",
+        "state": "Goa",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "\"Capital Investment Subsidy: 5% Additional Capital Investment Subsidy to Karaikal Region\" under \"Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries\"",
+        "state": "Puducherry",
+        "section": "Details"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "What government schemes are available for farmers in India?",
+    "type": "discovery",
+    "expected_scheme": null,
+    "expected_state": null,
+    "correct_rank": null,
+    "retrieved": [
+      {
+        "title": "Plastic Mulching",
+        "state": "Rajasthan",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "Sub-mission On Agriculture Mechanization",
+        "state": "Ministry Of Agriculture and Farmers Welfare",
+        "section": "Eligibility"
+      },
+      {
+        "title": "Amar Fasal Amar Gola",
+        "state": "West Bengal",
+        "section": "Eligibility"
+      },
+      {
+        "title": "AGR 3 (Farm Mechanization) Scheme For ST Farmers",
+        "state": "Gujarat",
+        "section": "Benefits"
+      },
+      {
+        "title": "Farmers Training Institute Scheme",
+        "state": "Meghalaya",
+        "section": "Frequently Asked Questions"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Am I eligible for the Lakshadweep Scholarship Scheme if I am a student from Lakshadweep?",
+    "type": "eligibility",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "correct_rank": 1,
+    "retrieved": [
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Eligibility"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Details"
+      },
+      {
+        "title": "Pradhan Mantri Ujjwala Yojana",
+        "state": "Ministry Of Petroleum and Natural Gas",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "Centrally-Sponsored Scheme Of Pre-Matric Scholarship For Scheduled Caste Students Studying In Classes 9th & 10th",
+        "state": "Ministry Of Social Justice and Empowerment",
+        "section": "Frequently Asked Questions"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "What documents are required for the Lakshadweep Scholarship Scheme?",
+    "type": "documents",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "correct_rank": 1,
+    "retrieved": [
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Application Process"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Eligibility"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Documents Required"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Details"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "लक्षद्वीप छात्रवृत्ति योजना के लिए कौन से दस्तावेज़ आवश्यक हैं?",
+    "type": "documents",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "correct_rank": 4,
+    "retrieved": [
+      {
+        "title": "CHIEF MINISTER EMPLOYMENT GENERATION PROGRAMME (CMEGP)",
+        "state": "Maharashtra",
+        "section": "Details"
+      },
+      {
+        "title": "LLB Internship Programme",
+        "state": "Ministry Of Law and Justice",
+        "section": "Documents Required"
+      },
+      {
+        "title": "Pradhan Mantri Formalisation Of Micro Food Processing Enterprises",
+        "state": "Ministry of Food Processing Industries",
+        "section": "Application Process"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Documents Required"
+      },
+      {
+        "title": "Financial Grants In Aid To SC/ST Patients Suffering From Cancer And Other Malignant Diseases",
+        "state": "Assam",
+        "section": "Frequently Asked Questions"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "ਲਕਸ਼ਦੀਪ ਸਕਾਲਰਸ਼ਿਪ ਯੋਜਨਾ ਲਈ ਕਿਹੜੇ ਦਸਤਾਵੇਜ਼ ਲੋੜੀਂਦੇ ਹਨ?",
+    "type": "documents",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "correct_rank": 2,
+    "retrieved": [
+      {
+        "title": "Zero Budget Natural Farming",
+        "state": "Rajasthan",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Documents Required"
+      },
+      {
+        "title": "Grant Of Retention Scholarship to Scheduled Caste Girl Students",
+        "state": "Puducherry",
+        "section": "Documents Required"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "Grant Of Retention Scholarship to Scheduled Caste Girl Students",
+        "state": "Puducherry",
+        "section": "Eligibility"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Tell me about a government scheme for space research.",
+    "type": "out_of_domain",
+    "expected_scheme": null,
+    "expected_state": null,
+    "correct_rank": null,
+    "retrieved": [
+      {
+        "title": "Lakshya Scheme",
+        "state": "Tripura",
+        "section": "Benefits"
+      },
+      {
+        "title": "Swarnajayanti Fellowships Scheme",
+        "state": "Ministry Of Science And Technology",
+        "section": "Details"
+      },
+      {
+        "title": "Co-Working Space/ Incubators/ Accelerators Subsidy Scheme",
+        "state": "Goa",
+        "section": "Details"
+      },
+      {
+        "title": "Women Scientist Scheme-B",
+        "state": "Ministry Of Science And Technology",
+        "section": "Details"
+      },
+      {
+        "title": "Land/Built-Up Area Rebate Scheme",
+        "state": "Goa",
+        "section": "Details"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "What is the scholarship amount for the Lakshadweep Scholarship Scheme?",
+    "type": "benefits",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "correct_rank": 1,
+    "retrieved": [
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Eligibility"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Details"
+      },
+      {
+        "title": "E-Medhabruti",
+        "state": "Odisha",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "section": "Benefits"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "What is the application process for the 25% Capital Investment Subsidy Scheme?",
+    "type": "application",
+    "expected_scheme": "25% Capital Investment Subsidy Scheme",
+    "expected_state": "Lakshadweep",
+    "correct_rank": 1,
+    "retrieved": [
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Eligibility"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Exclusions"
+      },
+      {
+        "title": "25% Capital Investment Subsidy Scheme",
+        "state": "Lakshadweep",
+        "section": "Frequently Asked Questions"
+      },
+      {
+        "title": "\"Interest Subsidy (For Micro, Small, Medium and Large New Industries)\" under \"Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - Various Incentives\"",
+        "state": "Puducherry",
+        "section": "Frequently Asked Questions"
+      }
+    ]
+  }
+]

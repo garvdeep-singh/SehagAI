@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "question": "What documents are required for the Lakshadweep Scholarship Scheme?",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "type": "documents",
+    "language": "en"
+  },
+  {
+    "id": 2,
+    "question": "Who is eligible for the Lakshadweep Scholarship Scheme?",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "type": "eligibility",
+    "language": "en"
+  },
+  {
+    "id": 3,
+    "question": "What benefits are provided under the 25% Capital Investment Subsidy Scheme?",
+    "expected_scheme": "25% Capital Investment Subsidy Scheme",
+    "expected_state": "Lakshadweep",
+    "type": "benefits",
+    "language": "en"
+  },
+  {
+    "id": 4,
+    "question": "What is the maximum subsidy under the 25% Capital Investment Subsidy Scheme in Lakshadweep?",
+    "expected_scheme": "25% Capital Investment Subsidy Scheme",
+    "expected_state": "Lakshadweep",
+    "type": "benefits",
+    "language": "en"
+  },
+  {
+    "id": 5,
+    "question": "Who is eligible for the 25% Capital Investment Subsidy Scheme?",
+    "expected_scheme": "25% Capital Investment Subsidy Scheme",
+    "expected_state": "Lakshadweep",
+    "type": "eligibility",
+    "language": "en"
+  },
+  {
+    "id": 6,
+    "question": "What are the eligibility requirements for the 25% Capital Investment Subsidy Scheme?",
+    "expected_scheme": "25% Capital Investment Subsidy Scheme",
+    "expected_state": "Lakshadweep",
+    "type": "eligibility",
+    "language": "en"
+  },
+  {
+    "id": 7,
+    "question": "What documents are needed to apply for the Lakshadweep Scholarship Scheme?",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "type": "application",
+    "language": "en"
+  },
+  {
+    "id": 8,
+    "question": "What are the benefits of the Lakshadweep Scholarship Scheme?",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "type": "benefits",
+    "language": "en"
+  },
+  {
+    "id": 9,
+    "question": "How can I apply for the Lakshadweep Scholarship Scheme?",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "type": "application",
+    "language": "en"
+  },
+  {
+    "id": 10,
+    "question": "What are the exclusions under the 25% Capital Investment Subsidy Scheme?",
+    "expected_scheme": "25% Capital Investment Subsidy Scheme",
+    "expected_state": "Lakshadweep",
+    "type": "eligibility",
+    "language": "en"
+  },
+  {
+    "id": 11,
+    "question": "What is the maximum subsidy under the Capital Investment Subsidy Scheme?",
+    "expected_scheme": null,
+    "expected_state": null,
+    "type": "ambiguous",
+    "language": "en"
+  },
+  {
+    "id": 12,
+    "question": "Tell me about the Capital Investment Subsidy Scheme.",
+    "expected_scheme": null,
+    "expected_state": null,
+    "type": "ambiguous",
+    "language": "en"
+  },
+  {
+    "id": 13,
+    "question": "What government schemes are available for farmers in India?",
+    "expected_scheme": null,
+    "expected_state": null,
+    "type": "discovery",
+    "language": "en"
+  },
+  {
+    "id": 14,
+    "question": "Am I eligible for the Lakshadweep Scholarship Scheme if I am a student from Lakshadweep?",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "type": "eligibility",
+    "language": "en"
+  },
+  {
+    "id": 15,
+    "question": "What documents are required for the Lakshadweep Scholarship Scheme?",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "type": "documents",
+    "language": "hi"
+  },
+  {
+    "id": 16,
+    "question": "लक्षद्वीप छात्रवृत्ति योजना के लिए कौन से दस्तावेज़ आवश्यक हैं?",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "type": "documents",
+    "language": "hi"
+  },
+  {
+    "id": 17,
+    "question": "ਲਕਸ਼ਦੀਪ ਸਕਾਲਰਸ਼ਿਪ ਯੋਜਨਾ ਲਈ ਕਿਹੜੇ ਦਸਤਾਵੇਜ਼ ਲੋੜੀਂਦੇ ਹਨ?",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "type": "documents",
+    "language": "pa"
+  },
+  {
+    "id": 18,
+    "question": "Tell me about a government scheme for space research.",
+    "expected_scheme": null,
+    "expected_state": null,
+    "type": "out_of_domain",
+    "language": "en"
+  },
+  {
+    "id": 19,
+    "question": "What is the scholarship amount for the Lakshadweep Scholarship Scheme?",
+    "expected_scheme": "Lakshadweep Scholarship Scheme",
+    "expected_state": "Lakshadweep",
+    "type": "benefits",
+    "language": "en"
+  },
+  {
+    "id": 20,
+    "question": "What is the application process for the 25% Capital Investment Subsidy Scheme?",
+    "expected_scheme": "25% Capital Investment Subsidy Scheme",
+    "expected_state": "Lakshadweep",
+    "type": "application",
+    "language": "en"
+  }
+]
