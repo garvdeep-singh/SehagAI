@@ -210,8 +210,13 @@ from sentence_transformers import SentenceTransformer
 
 ROOT = Path(__file__).resolve().parent.parent
 
-DB_PATH = ROOT / "qdrant_db"
+# DB_PATH = ROOT / "qdrant_db"
+# CHUNKS_FILE = ROOT / "chunks" / "chunks.jsonl"
 CHUNKS_FILE = ROOT / "chunks" / "chunks.jsonl"
+
+QDRANT_URL = os.environ.get("QDRANT_URL")
+
+QDRANT_API_KEY = os.environ.get("QDRANT_API_KEY")
 
 COLLECTION_NAME = "government_schemes"
 
@@ -413,8 +418,14 @@ def main():
     print("Loading BGE-M3...")
     model = SentenceTransformer(EMBEDDING_MODEL)
 
-    print("Connecting to Qdrant...")
-    qdrant = QdrantClient(path=str(DB_PATH))
+    # print("Connecting to Qdrant...")
+    # qdrant = QdrantClient(path=str(DB_PATH))
+    print("Connecting to Qdrant Cloud...")
+
+    qdrant = QdrantClient(
+        url=QDRANT_URL,
+        api_key=QDRANT_API_KEY,
+    )
 
     print("Connecting to Gemini...")
     client = genai.Client(
